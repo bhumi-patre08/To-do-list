@@ -3,6 +3,8 @@
 A robust, full-stack To-Do application built with **Vanilla JavaScript** on the frontend and **Node.js/Express** on the backend. This app is architected with an **offline-first philosophy**, utilizing `localStorage` for instant UI rendering alongside a resilient background synchronization engine featuring automatic retry mechanisms and conflict resolution.
 
 ---
+## Project Demo Video
+https://github.com/user-attachments/assets/005c5a8d-6064-4b85-a8c4-7afa6e67534f
 
 ## Features
 
